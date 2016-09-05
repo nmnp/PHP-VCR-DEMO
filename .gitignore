@@ -1,0 +1,4 @@
+.idea/
+tests/_support/_generated
+tests/fixtures/
+vendor/

@@ -1,0 +1,18 @@
+{
+    "name": "root/php-vcr",
+    "description": "PHP-VCR DEMO",
+    "type": "test",
+    "require-dev": {
+        "codeception/base": "^2.2",
+        "php-vcr/php-vcr": "^1.2",
+        "pusher/pusher-php-server": "^2.6",
+        "php-vcr/phpunit-testlistener-vcr": "^1.1",
+        "nategood/httpful": "^0.2.20"
+    },
+    "authors": [
+        {
+            "name": "Naresh Maharjan",
+            "email": "nareshmaharjan@lftechnology.com"
+        }
+    ]
+}
